@@ -5,3 +5,4 @@ We compiled our own data set by capuring majority of the images on our mobile ph
 Used SIFT for feature extraction, and tested out the system with various classifiers such as Decision Tree, Random Forest, SVM and KNN.
 Optimized the detection algorithm to run on a RaspberryPi board.
 Designed a circuit to detect, process the information and relay it to the user through an earpiece.
+Read more about the approach [here](https://link.springer.com/chapter/10.1007/978-981-19-2541-2_29)
